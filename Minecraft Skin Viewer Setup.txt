@@ -1,0 +1,78 @@
+Uninstaller	32,608	61%
+Minecraft Skin Viewer Libs\msvcr120.dll	489,617	50%
+Minecraft Skin Viewer Libs\avcodec-53.dll	372,164	66%
+Minecraft Skin Viewer Libs\avutil-51.dll	66,414	44%
+Minecraft Skin Viewer Libs\d3dx9_43.dll	869,272	57%
+Minecraft Skin Viewer Libs\d3dcompiler_43.dll	885,801	58%
+Minecraft Skin Viewer Libs\libGLESv2.dll	288,966	54%
+Minecraft Skin Viewer Libs\msvcr100.dll	402,719	48%
+Minecraft Skin Viewer Libs\msvcp120.dll	158,988	66%
+Minecraft Skin Viewer Libs\icudt.dll	4,192,271	58%
+Minecraft Skin Viewer Libs\libcef.dll	8,517,841	59%
+Minecraft Skin Viewer Libs\libEGL.dll	52,197	54%
+Minecraft Skin Viewer Libs\chrome.pak	579,655	77%
+Minecraft Skin Viewer Libs\locales\am.pak	1,493	46%
+Minecraft Skin Viewer Libs\locales\ar.pak	1,567	57%
+Minecraft Skin Viewer Libs\locales\bg.pak	1,628	58%
+Minecraft Skin Viewer Libs\locales\bn.pak	1,637	67%
+Minecraft Skin Viewer Libs\locales\ca.pak	1,396	43%
+Minecraft Skin Viewer Libs\locales\cs.pak	1,466	43%
+Minecraft Skin Viewer Libs\locales\da.pak	1,304	40%
+Minecraft Skin Viewer Libs\locales\de.pak	1,433	44%
+Minecraft Skin Viewer Libs\locales\el.pak	1,755	56%
+Minecraft Skin Viewer Libs\locales\en-GB.pak	1,249	41%
+Minecraft Skin Viewer Libs\locales\en-US.pak	1,248	41%
+Minecraft Skin Viewer Libs\locales\es-419.pak	1,402	44%
+Minecraft Skin Viewer Libs\locales\es.pak	1,422	44%
+Minecraft Skin Viewer Libs\locales\et.pak	1,311	40%
+Minecraft Skin Viewer Libs\locales\fa.pak	1,526	57%
+Minecraft Skin Viewer Libs\locales\fi.pak	1,323	41%
+Minecraft Skin Viewer Libs\locales\fil.pak	1,420	45%
+Minecraft Skin Viewer Libs\locales\fr.pak	1,417	45%
+Minecraft Skin Viewer Libs\locales\gu.pak	1,605	66%
+Minecraft Skin Viewer Libs\locales\he.pak	1,347	49%
+Minecraft Skin Viewer Libs\locales\hi.pak	1,605	65%
+Minecraft Skin Viewer Libs\locales\hr.pak	1,358	42%
+Minecraft Skin Viewer Libs\locales\hu.pak	1,456	43%
+Minecraft Skin Viewer Libs\locales\id.pak	1,300	42%
+Minecraft Skin Viewer Libs\locales\it.pak	1,327	44%
+Minecraft Skin Viewer Libs\locales\ja.pak	1,514	49%
+Minecraft Skin Viewer Libs\locales\kn.pak	1,641	70%
+Minecraft Skin Viewer Libs\locales\ko.pak	1,433	43%
+Minecraft Skin Viewer Libs\locales\lt.pak	1,483	41%
+Minecraft Skin Viewer Libs\locales\lv.pak	1,433	43%
+Minecraft Skin Viewer Libs\locales\ml.pak	1,821	71%
+Minecraft Skin Viewer Libs\locales\mr.pak	1,611	63%
+Minecraft Skin Viewer Libs\locales\ms.pak	1,304	43%
+Minecraft Skin Viewer Libs\locales\nb.pak	1,300	39%
+Minecraft Skin Viewer Libs\locales\nl.pak	1,356	42%
+Minecraft Skin Viewer Libs\locales\pl.pak	1,397	40%
+Minecraft Skin Viewer Libs\locales\pt-BR.pak	1,373	43%
+Minecraft Skin Viewer Libs\locales\pt-PT.pak	1,367	44%
+Minecraft Skin Viewer Libs\locales\ro.pak	1,459	45%
+Minecraft Skin Viewer Libs\locales\ru.pak	1,595	55%
+Minecraft Skin Viewer Libs\locales\sk.pak	1,452	42%
+Minecraft Skin Viewer Libs\locales\sl.pak	1,355	40%
+Minecraft Skin Viewer Libs\locales\sr.pak	1,553	55%
+Minecraft Skin Viewer Libs\locales\sv.pak	1,287	40%
+Minecraft Skin Viewer Libs\locales\sw.pak	1,343	42%
+Minecraft Skin Viewer Libs\locales\ta.pak	1,612	72%
+Minecraft Skin Viewer Libs\locales\te.pak	1,676	69%
+Minecraft Skin Viewer Libs\locales\th.pak	1,515	65%
+Minecraft Skin Viewer Libs\locales\tr.pak	1,382	41%
+Minecraft Skin Viewer Libs\locales\uk.pak	1,619	55%
+Minecraft Skin Viewer Libs\locales\vi.pak	1,486	46%
+Minecraft Skin Viewer Libs\locales\zh-CN.pak	1,366	38%
+Minecraft Skin Viewer Libs\locales\zh-TW.pak	1,385	37%
+Minecraft Skin Viewer Libs\msvcp100.dll	134,657	69%
+Minecraft Skin Viewer Libs\avformat-53.dll	93,014	50%
+Minecraft Skin Viewer Libs\Browser Plugin.dll	54,949	63%
+Minecraft Skin Viewer Libs\Appearance Pak.dll	48,752	54%
+Minecraft Skin Viewer Libs\RBGUIFramework.dll	714,267	61%
+Minecraft Skin Viewer.exe	714,942	77%
+
+Result :
+    Number of files: 72
+    Total uncompressed size: 47428119 bytes
+    Total compressed size: 18746207 bytes
+    Install program size: 18962285 bytes
